@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Рабочий стол\\Lesson9_DZ\\DZ_003\\DZ_003.csproj": {}
+    "D:\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования\\Lesson9_DZ\\DZ_003\\DZ_003.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Рабочий стол\\Lesson9_DZ\\DZ_003\\DZ_003.csproj": {
+    "D:\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования\\Lesson9_DZ\\DZ_003\\DZ_003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\Lesson9_DZ\\DZ_003\\DZ_003.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования\\Lesson9_DZ\\DZ_003\\DZ_003.csproj",
         "projectName": "DZ_003",
-        "projectPath": "D:\\OneDrive\\Рабочий стол\\Lesson9_DZ\\DZ_003\\DZ_003.csproj",
+        "projectPath": "D:\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования\\Lesson9_DZ\\DZ_003\\DZ_003.csproj",
         "packagesPath": "C:\\Users\\MaxX\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Рабочий стол\\Lesson9_DZ\\DZ_003\\obj\\",
+        "outputPath": "D:\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования\\Lesson9_DZ\\DZ_003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MaxX\\AppData\\Roaming\\NuGet\\NuGet.Config"
