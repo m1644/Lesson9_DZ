@@ -5,17 +5,7 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-int temp = m;
-
-if (m > n) 
-{
-    m = n; 
-    n = temp;
-}
-
-PrintSumm(m, n, temp=0);
-
-void PrintSumm(int m, int n, int sum)
+void PrintSumm(int m, int n, int sum = 0)
 {
     sum = sum + n;
     if (n <= m)
@@ -25,3 +15,5 @@ void PrintSumm(int m, int n, int sum)
     }
     PrintSumm(m, n - 1, sum);
 }
+
+PrintSumm(m, n);
